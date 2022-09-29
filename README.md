@@ -7,6 +7,6 @@ DEPENDENCIES:
 
 COMMAND LINE:
 
-Example formatting for the terminal command that will create the Storyboard PDF file:
+Example formatting for the terminal command that will run the script and chop up the audio file:
 
 	python3 Audio-Sampler.py {audio file} {bpm of the song} {length of audio segment}
